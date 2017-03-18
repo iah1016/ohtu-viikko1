@@ -1,1 +1,2 @@
 fgalkewrjglerkaj
+harjoitellaan git add -p -komentoa

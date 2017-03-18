@@ -1,3 +1,4 @@
 oighrteujhgiortebnnhd
 egfjigds
 gtr se swri muutos
+toinen muutos ennen git add -p:tä

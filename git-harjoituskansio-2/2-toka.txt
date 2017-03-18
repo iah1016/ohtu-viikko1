@@ -1,1 +1,2 @@
 bufigdb9r0sgu
+muutoksia ennen git add -p:tä

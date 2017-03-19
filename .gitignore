@@ -1,2 +1,6 @@
 *.tmp
 build/
+.gradle/
+bin/
+
+.nb-gradle/
